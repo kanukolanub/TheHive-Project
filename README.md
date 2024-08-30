@@ -11,3 +11,17 @@ You have captured network traffic on your network after suspicion of data exfilt
 Analyse the FTP traffic and create a case on TheHive to facilitate the progress of an investigation. 
 * Key Topics: FTP Traffic, Data Exfiltration
 * Tools: TheHive, FTP PCAP file.
+
+Once an analyst has logged in to the dashboard, they will be greeted with the screen below. At the top, various menu options are listed that allow the user to create new cases and see their tasks and alerts. A list of active cases will be populated on the centre console when analysts create them.
+
+![image](https://github.com/user-attachments/assets/ba6bf67a-dc96-4504-af79-07da46cab68a)
+
+On clicking the New Case tab, a pop-up window opens, providing the analyst with fields to input their case details and tasks. The following options must be indicated on the case to set different categories and filter options:
+
+* Severity: This showcases the level of impact the incident being investigated has on the environment from low to critical levels.
+* TLP: The Traffic Light Protocol is a set of designations to ensure that sensitive information is shared with the appropriate audience. The range of colours represents a scale between full disclosure of information (White) and No disclosure/ Restricted (Red).
+* PAP: The Permissible Actions Protocol is used to indicate what an analyst can do with the information, whether an attacker can detect the current analysis state or defensive actions in place.
+  
+![image](https://github.com/user-attachments/assets/2bc227e1-40ab-4bf4-bce4-e9005b47a528)
+
+![image](https://github.com/user-attachments/assets/ef0fec21-be92-453c-ab98-ef6b921e6989)
