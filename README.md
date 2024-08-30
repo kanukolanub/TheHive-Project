@@ -24,6 +24,7 @@ On clicking the New Case tab, a pop-up window opens, providing the analyst with 
   
 ![image](https://github.com/user-attachments/assets/2bc227e1-40ab-4bf4-bce4-e9005b47a528)
 
+Details Tab
 ![image](https://github.com/user-attachments/assets/ef0fec21-be92-453c-ab98-ef6b921e6989)
 
 In the visual below, we add the corresponding tactic and technique associated with the case. The TTPs are imported from MITRE ATT&CK. This provides additional information that can be helpful to map out the threat. As this is an exfiltration investigation, that is the specific tactic chosen and followed by the specific T1048.003 technique for Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol.
@@ -33,4 +34,20 @@ clcik on TTPs tab, and click +Add TTP
 
 Tasks Tab
 ![image](https://github.com/user-attachments/assets/08dd5bc1-0fd4-4ce4-b5b2-512e6f2182d1)
+
+TTPs Tab
+![image](https://github.com/user-attachments/assets/1856d37b-8ea7-44ea-a90a-7e55aac0baf8)
+
+![image](https://github.com/user-attachments/assets/9b7a21a7-98f7-4a83-b43a-c003b5b8b1c2)
+
+click on observables tab and click on +Add observable(s) button
+![image](https://github.com/user-attachments/assets/75663cfa-9cb9-4504-bade-e1ee3d2795fa)
+
+![image](https://github.com/user-attachments/assets/283b9625-1e8e-4158-a838-df98372c1adf)
+
+
+
+
+
+
 
