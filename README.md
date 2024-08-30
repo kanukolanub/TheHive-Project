@@ -40,6 +40,8 @@ TTPs Tab
 
 ![image](https://github.com/user-attachments/assets/9b7a21a7-98f7-4a83-b43a-c003b5b8b1c2)
 
+![image](https://github.com/user-attachments/assets/7b9f2c34-0e32-4c32-9540-14b8311321df)
+
 click on observables tab and click on +Add observable(s) button
 ![image](https://github.com/user-attachments/assets/75663cfa-9cb9-4504-bade-e1ee3d2795fa)
 
