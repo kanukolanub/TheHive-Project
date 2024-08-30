@@ -9,5 +9,5 @@ You have captured network traffic on your network after suspicion of data exfilt
 
 ## PROJECT
 Analyse the FTP traffic and create a case on TheHive to facilitate the progress of an investigation. 
-Key Topics: FTP Traffic, Data Exfiltration
-Tools: TheHive, FTP PCAP file.
+* Key Topics: FTP Traffic, Data Exfiltration
+* Tools: TheHive, FTP PCAP file.
