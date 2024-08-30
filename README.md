@@ -25,3 +25,5 @@ On clicking the New Case tab, a pop-up window opens, providing the analyst with 
 ![image](https://github.com/user-attachments/assets/2bc227e1-40ab-4bf4-bce4-e9005b47a528)
 
 ![image](https://github.com/user-attachments/assets/ef0fec21-be92-453c-ab98-ef6b921e6989)
+
+In the visual below, we add the corresponding tactic and technique associated with the case. The TTPs are imported from MITRE ATT&CK. This provides additional information that can be helpful to map out the threat. As this is an exfiltration investigation, that is the specific tactic chosen and followed by the specific T1048.003 technique for Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol.
